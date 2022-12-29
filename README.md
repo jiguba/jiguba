@@ -9,6 +9,16 @@
 <p>Interests: Photography, races (obstacles and distance), bboying or the more popular term "breakdancing" 📸 🏃🏻 🕺🏻</p>
 <p>Favorite Sports Team: Los Angeles Chargers ⚡️</p>
 
+<h2>Current Projects/Goals</h2>
+
+<p> Aside from school work, I'm working on the following:
+<ul>
+<li>personal website (typical I know 🤷🏻‍♂️)</li>
+<li>designing/implementing a mockup of a personal photography website</li>
+<li>going through various Udemy courses to improve on personal hobbies/improve technical skillset</li>
+<li>tackling the various audiobooks I've obtained from an Audible subscription that I probably should of freezed a long time ago</li>
+</ul>
+
 <h2>Contact Me</h2>
 <div>
 <a href="https://www.linkedin.com/in/jason-guba/">    
