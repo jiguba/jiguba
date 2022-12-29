@@ -1,8 +1,21 @@
-- 👋 Hi, I’m @jiguba
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<html lang="en">
+<head>
+    <style>
+        body {
+            background-color: blue;
+        }
+        </style>
+
+
+</head>
+
+<body>
+    <h1> Hi, I'm Jason. </h1>
+    <h2>But some people call me Guba (my last name).</h2>
+</body>
+</html>
+
+
 
 <!---
 jiguba/jiguba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
