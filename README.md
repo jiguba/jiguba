@@ -1,15 +1,5 @@
 <html lang="en">
-<head>
-    <style>
-        body {
-            background-color: blue;
-        }
-        </style>
-
-
-</head>
-
-<body>
+<body style="background-color: blue;">
     <h1> Hi, I'm Jason. </h1>
     <h2>But some people call me Guba (my last name).</h2>
 </body>
