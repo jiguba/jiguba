@@ -1,6 +1,6 @@
 <html lang="en">
 <body style="background-color: blue;">
-    <h1> Hi, I'm Jason. </h1>
+    <h1 style="color:red"> Hi, I'm Jason. </h1>
     <h2>But some people call me Guba (my last name).</h2>
 </body>
 </html>
