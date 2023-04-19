@@ -13,7 +13,7 @@
 
 <p> Aside from school work, I'm working on the following:
 <ul>
-<li>personal website (typical I know 🤷🏻‍♂️)</li>
+<li>personal website</li>
 <li>designing/implementing a mockup of a personal photography website</li>
 <li>going through various Udemy courses to improve on personal hobbies/improve technical skillset</li>
 <li>tackling the various audiobooks I've obtained from an Audible subscription that I probably should of freezed a long time ago</li>
