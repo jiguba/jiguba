@@ -14,10 +14,10 @@ I specialize in building maintainable, scalable applications with a focus on bac
 ---
 
 ## 📈 Current Growth Tracker
-**Purpose:** Documenting my progress in skill development, coding practice, and project building during my unemployment period.
+**Purpose:** Documenting my progress in skill development, coding practice, and project building.
 
-- **Skill Roadmap:** [SEII 12-Week Roadmap](https://docs.google.com/document/d/1n4H70gsmsN-CRgd2UkHHru1JAtY7yO7q4NVEawy87Kk/edit?usp=sharing) _(Linked to repository with learning plan & logs)_
-- **LeetCode Profile:** [My LeetCode Repo](https://leetcode.com/u/user4495N/) _(Organized by topic & difficulty)_
+- **Skill Roadmap:** [SEII 12-Week Roadmap](https://docs.google.com/document/d/1n4H70gsmsN-CRgd2UkHHru1JAtY7yO7q4NVEawy87Kk/edit?usp=sharing)
+- **LeetCode Profile:** [My LeetCode Repo](https://leetcode.com/u/user4495N/)
 
 ---
 
