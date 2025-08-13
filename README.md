@@ -1,31 +1,37 @@
-<h1>Hi I'm Jason.</h1>
-<h2>But some people call me Guba (my last name).</h2>
+# 👋 Hi, I’m Jason Isidro Guba
 
-<h2>About Me</h2>
-<p>Pronouns: He/him/his 👦🏻 🇺🇸🇵🇭</p>
-<p>Hometown: San Diego, CA ☀️</p>
-<p>Currently Located: Chicago, IL 📍</p>
-<p>Occupation: Recent graduate at the University of Chicago 📚</p>
-<p>Interests: Photography, races (obstacles and distance), bboying or the more popular term "breakdancing" 📸 🏃🏻 🕺🏻</p>
-<p>Favorite Sports Team: Los Angeles Chargers ⚡️</p>
+**Full-Stack & Backend Software Engineer | Former Salesforce Developer | Marine Corps Veteran**
 
-<h2>Contact Me</h2>
-<div>
-<a href="https://www.linkedin.com/in/jason-guba/">    
-<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
-</a>
-<a href="https://www.instagram.com/jasonguba/"><img src="https://img.shields.io/badge/Instagram-blue?logo=instagram&logoColor=white&style=for-the-badge"></a>
-<a href="https://mail.google.com/"><img src="https://img.shields.io/badge/GMail-blue?logo=gmail&logoColor=white&style=for-the-badge"></a>
-</div>
+I specialize in building maintainable, scalable applications with a focus on backend systems, API integrations, and cloud deployments. I’m currently sharpening my skills in **Java (Spring Boot)**, **Node.js**, **React + TypeScript**, **AWS**, and **DevOps** practices to prepare for software engineering responsibilities.
 
+---
 
+## 🚀 What I Bring
+- **2 years** of professional development experience in Salesforce platform engineering (Apex, Lightning Web Components, REST/SOAP APIs).
+- Proven track record of **process automation**, **API integrations**, and **UI/UX improvements** that enhance workflows and reduce manual work.
+- **Leadership & discipline** from my time as a U.S. Marine Corps Sergeant—adaptable, mission-focused, and precise under pressure.
 
+---
 
+## 📈 Current Growth Tracker
+**Purpose:** Documenting my progress in skill development, coding practice, and project building during my unemployment period.
 
+- **Skill Roadmap:** [SEII 12-Week Roadmap](https://docs.google.com/document/d/1n4H70gsmsN-CRgd2UkHHru1JAtY7yO7q4NVEawy87Kk/edit?usp=sharing) _(Linked to repository with learning plan & logs)_
+- **LeetCode Profile:** [My LeetCode Repo](https://leetcode.com/u/user4495N/) _(Organized by topic & difficulty)_
 
+---
 
+## 🛠️ Technologies & Tools
+**Languages:** Java, JavaScript/TypeScript, Apex, Python, HTML/CSS, SQL, NoSQL  
+**Frameworks:** Spring Boot, Node.js/Express, React, Lightning Web Components  
+**Cloud/DevOps:** AWS, Docker, GitHub Actions, CI/CD pipelines  
+**Databases:** PostgreSQL, MongoDB, MySQL  
+**Other Tools:** Git, Postman, IntelliJ, VS Code
 
-<!---
-jiguba/jiguba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 📬 Let’s Connect
+- [LinkedIn](https://www.linkedin.com/in/jason-guba/)  
+- [Email](mailto:jason.guba2@gmail.com)  
+
+---
